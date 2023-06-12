@@ -9,7 +9,7 @@
 ## Make bash file executable
 `chmod +x install.sh`
 ## Run installation file
-`./install.sh`
+`sudo ./install.sh`
 
 ## Reboot
 

@@ -1,3 +1,4 @@
+apt-get install dkms
 git clone https://github.com/cilynx/rtl88x2bu
 cd rtl88x2bu
 VER=$(sed -n 's/\PACKAGE_VERSION="\(.*\)"/\1/p' dkms.conf)
