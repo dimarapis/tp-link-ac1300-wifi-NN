@@ -6,10 +6,18 @@
 ## Enter into cloned directory
 `cd tp-link-ac1300-wifi-NN`
 
+# FOR UBUNTU (Gaming computer, laptop, etc)
 ## Make bash file executable
 `chmod +x install.sh`
 ## Run installation file
 `sudo ./install.sh`
 
-## Reboot
+# FOR NVIDIA JETSON 
+## Make bash file executable
+`chmod +x install-jetson.sh`
+## Run installation file
+`sudo ./install-jetson.sh`
 
+Answer no to both promts in the end of installation
+
+## Reboot
